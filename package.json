@@ -1,0 +1,29 @@
+{
+  "name": "appcache-manifest-validate",
+  "version": "1.0.0",
+  "description": "AppCache manifest validator",
+  "main": "index.js",
+  "bin": {
+    "appcache-manifest-validate": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appcache",
+    "manifest",
+    "validator",
+    "check"
+  ],
+  "author": "smhg",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smhg/appcache-manifest-validate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smhg/appcache-manifest-validate/issues"
+  },
+  "homepage": "https://github.com/smhg/appcache-manifest-validate#readme",
+  "dependencies": {}
+}
